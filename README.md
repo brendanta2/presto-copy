@@ -1,5 +1,11 @@
 # Assessment 4 - ReactJS: Presto
 
+## Usage
+
+Simply run npm start on both the backend and frontend directories via separate terminals to get it started. Make sure your local storage is empty before starting up the application
+
+## Features
+
 ### 2.1. Feature Set 1. Login & presentation Creation (10%)
 
 This feature set focuses solely on the ability to register, login, and logout. It does not concern itself with any functionality or screens that come after logged in - if the dashboard when logged in is just a blank screen with a logout button, then that is satisfactory for this feature set.
