@@ -2,7 +2,7 @@
 
 ## Usage
 
-Simply run npm start on both the backend and frontend directories via separate terminals to get it started. Make sure your local storage is empty before starting up the application
+Simply run `npm start` on both the backend and frontend directories via separate terminals to get it started. Make sure your local storage is empty before starting up the application
 
 ## Features
 
